@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there! Welcome to my profile 👋
 
-<!--
-**AWP-001/AWP-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Personal Stuffs:**
+- My name is **API WIDI PRATAMA** but you can call me **API**.
+- I'm just a random guy from Indonesia who is starting to learn about programming.
+- I'm not that active, so you probably will never see any relevant project in here.
+- Looking for help with my life.
+- My order and my desire ⬇️
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```sql
+SELECT memories FROM life WHERE type like 'Unforgettable';
+DELETE FROM Friends WHERE attitude = 'toxic';
+```
